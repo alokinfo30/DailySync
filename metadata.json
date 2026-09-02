@@ -1,0 +1,7 @@
+{
+  "name": "Personal Productivity Assistant - Operations Agent",
+  "description": "Personal productivity agent for business operations—checking sales, tracking inventory, automating daily workflows with PromptGuard defense, server-side cart validation, RAG cosine search, telemetry, and rate limiting deployed on Cloud Run.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
